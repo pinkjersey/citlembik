@@ -1,0 +1,35 @@
+    <div class="jumbotron">
+      <div class="container">
+	<h1>{{webtext.header}}</h1>
+	<div ng-repeat="thetxt in webtext.paragraphs"> 
+	  <h3 ng-show="thetxt.header">{{thetxt.header}}</h3>
+	  <img ng-src="{{thetxt.image}}" class="img-responsive" style="float:left;width:200px;height:200px; margin-right:10px;" ng-show="thetxt.image" />
+	  <p ng-bind-html="thetxt.data"></p>
+	</div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+	<div class="col-md-6">
+	  <h2>{{left.header}}</h2>
+	  <div ng-repeat="thetxt in left.paragraphs">	    
+	    <h3 ng-show="thetxt.header">{{thetxt.header}}</h3>
+	    <img ng-src="{{thetxt.image}}" class="img-responsive" style="float:left;width:200px;height:200px; margin-right:10px;" ng-show="thetxt.image" />
+	    <p ng-bind-html="thetxt.data"></p>
+	  </div>
+	</div>
+	<div class="col-md-6">
+	  <h2>{{right.header}}</h2>
+	  <div ng-repeat="thetxt in right.paragraphs">
+	    <h3 ng-show="thetxt.header">{{thetxt.header}}</h3>
+	    <p ng-bind-html="thetxt.data"></p>
+	  </div>
+	</div>
+      </div>
+      <hr>
+
+      <footer>
+        <p>&copy; Çitlembik 2015</p>
+      </footer>
+    </div> <!-- /container -->

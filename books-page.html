@@ -1,0 +1,46 @@
+    <div class="jumbotron">
+      <div class="container">
+	<h1>Çitlembik Books</h1>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+	<!-- left side -->
+	<div class="col-md-3">
+	  <div class="well">
+	    <ul class="nav nav-list">
+	      <li class="nav-header">Categories:</li>
+	      <li class="active">Active</li>
+	      <li>More</li>
+	    </ul>
+	  </div>
+	</div> <!-- done left side -->
+	<div class="col-md-9">
+	  <div class="row" ng-show="hasFeaturedBooks">
+	    <div class="col-md-6" ng-repeat="index in featuredBooks">
+	      <cit-book info="books[index]"></cit-book>
+	    </div>
+	  </div>
+	  <div class="row">
+	    <div class="well">
+	      <div class="row">
+		<div class="col-md-12">
+		  <p class="lead"><i>Books with an Anatolian stance</i><br />Books on, about, and by those myriad people and cultures who have walked the lands of Anatolia</p>
+		</div>
+	      </div>
+	    </div> 
+	  </div> <!-- end marketting -->
+	  <div ng-repeat="book in filteredBooks" ng-if="$index % 3 == 0" class="row">
+	    <div class="col-md-4"><cit-book info="filteredBooks[$index]"></cit-book></div>
+	    <div class="col-md-4"><cit-book info="filteredBooks[$index+1]" ng-if="$index+1 < filteredBooks.length"></cit-book></div>
+	    <div class="col-md-4"><cit-book info="filteredBooks[$index+2]" ng-if="$index+2 < filteredBooks.length"></cit-book></div>
+	  </div>
+
+	  <pagination ng-model="currentPage"
+		      total-items="totalItems"
+		      max-size="maxPages"
+		      items-per-page="numPerPage"
+		      boundary-links="true"></pagination>
+	</div>
+    </div> <!-- /container -->

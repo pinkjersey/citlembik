@@ -1,0 +1,44 @@
+<div ng-show="isError">
+    <div class="jumbotron">
+      <div class="container">
+	<h1>{{webtext.header}}</h1>
+      </div>
+    </div>
+
+    <div class="container">
+      <footer>
+        <p>&copy; Çitlembik 2015</p>
+      </footer>
+    </div> <!-- /container -->
+</div>
+<div ng-show="isError == false" itemscope itemtype="http://schema.org/Book">
+  <div class="jumbotron">
+    <div class="container">
+      <div class="row">
+	<div class="col-md-3">
+	  <div class="thumbnail">
+	    <img itemprop="image" ng-src="kapakimg/{{book.image}}" alt="{{book.name}} cover" />
+	  </div>
+	</div> <!-- done first jumbo col -->
+	<div class="col-md-6">
+	  <h2 itemprop="name">{{book.name}}</h2>
+	  <span itemprop="author" itemscope itemtype="http://schema.org/Person" style="display:block;" ng-if="book.Author1 != null">by <span itemprop="name">{{book.Author1}}</span></span>
+	  <span itemprop="illustrator" itemscope itemtype="http://schema.org/Person" style="display:block;" ng-if="book.Illustrator1 != null">illustrated by <span itemprop="name">{{book.Illustrator1}}</span></span>
+	</div> <!-- done second jumbo col -->
+	<div class="col-md-3">
+	  <div class="well">
+	    <h3>Buy This Book</h3>
+	  </div>
+	</div>
+      </div> <!-- done jumbo row -->
+    </div> <!-- done jumbo container -->
+  </div> <!-- done jumbo -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+      </div> <!-- done main first col -->
+      <div class="col-md-9">
+      </div> <!-- done main second row -->
+    </div> <!-- done main row -->
+  </div> <!-- done main container -->
+</div> <!-- done book detail -->

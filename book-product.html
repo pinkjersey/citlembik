@@ -1,0 +1,10 @@
+<div class="thumbnail">
+  <div itemscope itemtype="http://schema.org/Book">
+    <img itemprop=image ng-src="kapakimg/{{book.image}}" alt="{{book.name}} cover" />
+    <div class="caption">
+      <a itemprop="url" href="{{book.link}}"><span itemprop="name" style="display:block;"><strong>{{book.name}}</strong></span></a>
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person" style="display:block;" ng-if="book.Author1 != null">by <span itemprop="name">{{book.Author1}}</span></span>
+      <span itemprop="illustrator" itemscope itemtype="http://schema.org/Person" style="display:block;" ng-if="book.Illustrator1 != null">illustrated by <span itemprop="name">{{book.Illustrator1}}</span></span>
+    </div>
+  </div>
+</div>

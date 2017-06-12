@@ -1,0 +1,974 @@
+[
+	{
+		"isbn" : "975-6663-38-3",
+		"bookname" : "Aydede, Balon ve Zeze",
+		"Author1" : "Zarife Öztürk",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Özlem Şekercioğlu",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-33-2",
+		"bookname" : "Galata Kulesi'nin Martısı: Zeynep",
+		"Author1" : "Julia Townsend",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Julia Townsend",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-45-6",
+		"bookname" : "Kaptan Lodos",
+		"Author1" : "Öğünç Ersöz",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Öğünç Ersöz",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-10-3",
+		"bookname" : "Feminizm Herkes İçindir",
+		"Author1" : "Bell Hooks",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-39-1",
+		"bookname" : "Muzlar, Plajlar ve Askeri Üsler",
+		"Author1" : "Cynthia Enloe",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-09-X",
+		"bookname" : "Memenin Tarihi",
+		"Author1" : "Marilyn Yalom",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-19-7",
+		"bookname" : "Antik Çağlardan Günümüze Evli Kadının Tarihi",
+		"Author1" : "Marilyn Yalom",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-37-5",
+		"bookname" : "Kaşık ve Kepçe",
+		"Author1" : "David Sogge",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-41-3",
+		"bookname" : "Dördüncü Sınıf Bir Hiçin Hikayesi",
+		"Author1" : "Judy Blume",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Özlem Şekercioğlu",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-42-1",
+		"bookname" : "Süper Çikolata",
+		"Author1" : "Judy Blume",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Özlem Şekercioğlu",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-20-0",
+		"bookname" : "Kullanılıp Atılanlar",
+		"Author1" : "Kevin Bales",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-23-5",
+		"bookname" : "Kalkınma Efsanesi",
+		"Author1" : "Oswaldo de Rivero",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-25-1",
+		"bookname" : "ATTAC",
+		"Author1" : "Christiane Grefe",
+		"Author2" : "Mathias Greffrath",
+		"Author3" : "Harald Schumann",
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-35-9",
+		"bookname" : "Yürüyen Kelimeler",
+		"Author1" : "Eduardo Galeano",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-36-7",
+		"bookname" : "Punk Felsefesi",
+		"Author1" : "Craig O'Hara",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-03-0",
+		"bookname" : "Düşler, Kabuslar ve Gelecek Masalları",
+		"Author1" : "Doğu Yücel",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-4-6",
+		"bookname" : "İyi ve Kötü Tanrıların Önyargılarıdır",
+		"Author1" : "Helmut Eisendle",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-18-9",
+		"bookname" : "İnanç Sokağında Ayışığı",
+		"Author1" : "Gina B. Nahai",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-29-4",
+		"bookname" : "Kadınlar Vagonu",
+		"Author1" : "Anita Nair",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-43-X",
+		"bookname" : "Adresi Yok, New York",
+		"Author1" : "Lee Stringer",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-44-8",
+		"bookname" : "Tanrı'dan Çok Uzak",
+		"Author1" : "Ana Castillo",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-28-6",
+		"bookname" : "Herkese Gıda",
+		"Author1" : "John Madeley",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-26-X",
+		"bookname" : "Kapitalizm ve Kültür",
+		"Author1" : "Conrad Lodziak",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-15-4",
+		"bookname" : "Şanslı Velet",
+		"Author1" : "James Hatfield",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-31-6",
+		"bookname" : "İçinde Yaşamayı Seçtiğimiz Hapishaneler",
+		"Author1" : "Doris Lessing",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-34-0",
+		"bookname" : "Normalliğin Deliliği",
+		"Author1" : "Arno Gruen",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-01-4",
+		"bookname" : "Boğaz'dan...",
+		"Author1" : "Rhonda Vander Sluis",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-17-0",
+		"bookname" : "İstinye",
+		"Author1" : "İlhan Tayar",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-21-9",
+		"bookname" : "Silahsız Askerler",
+		"Author1" : "Mark Lieberman",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-16-2",
+		"bookname" : "Aşk Bilimi",
+		"Author1" : "Glenn D. Wilson",
+		"Author2" : "Chris McLaughlin",
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-04-9",
+		"bookname" : "Byzantine Istanbul",
+		"Author1" : "Robert van den Graven",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-00-6",
+		"bookname" : "Exploring Turkey",
+		"Author1" : null,
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-05-7",
+		"bookname" : "Folk Costumes of Turkey",
+		"Author1" : "Amy Chaple",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Audrey Boobar",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-32-4",
+		"bookname" : "Zeynep: The Seagull of Galata Tower",
+		"Author1" : "Julia Townsend",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Julia Townsend",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-47-2",
+		"bookname" : "Parvana",
+		"Author1" : "Deborah Ellis",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-06-5",
+		"bookname" : "Türk Halk Oyunları Giysileri",
+		"Author1" : null,
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-91-X",
+		"bookname" : "Bay Bay Bezim (Ince Kapak)",
+		"Author1" : "Debra Menase",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Iidih Wanha",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-50-2",
+		"bookname" : "Tepetaklak",
+		"Author1" : "Eduardo Galeano",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-51-0",
+		"bookname" : "From the Steeple to the Minaret",
+		"Author1" : "Hughette Eyupoglu",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-53-7",
+		"bookname" : "Ãçüncü",
+		"Author1" : "Yüce Yöney",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-60-X",
+		"bookname" : "En Yaramaz Kız Okulda",
+		"Author1" : "Enid Blyton",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-65-0",
+		"bookname" : "Orada mısın? Benim, Margaret",
+		"Author1" : "Judy Blume",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-62-6",
+		"bookname" : "Gökkuşağı",
+		"Author1" : "Debra Menase",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Iidih Wanha",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-55-3",
+		"bookname" : "Paramparça",
+		"Author1" : "T Cooper",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-54-5",
+		"bookname" : "Zürafanın Gözyaşları",
+		"Author1" : "Alexander McCall Smith",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-64-2",
+		"bookname" : "No Woman No Cry",
+		"Author1" : "Rita Marley",
+		"Author2" : "Hettie Jones",
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-59-6",
+		"bookname" : "The Cistern",
+		"Author1" : "K. Kamal Ayyildiz",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-56-1",
+		"bookname" : "Embracing the Mountains",
+		"Author1" : "Süleyman Sağlam",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-61-8",
+		"bookname" : "The Rainbow",
+		"Author1" : "Debra Menase",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Iidih Wanha",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-63-4",
+		"bookname" : "Secrets of the Turkish Kitchen",
+		"Author1" : "Angie Mitchell",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Sarah Carter",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-49-9",
+		"bookname" : "Topkapi Palace - Inside and Out",
+		"Author1" : "Claire Karaz Ruoff",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Murat Oğurlu",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-66-9",
+		"bookname" : "Otoyol Kenarında Yanan Ateşler",
+		"Author1" : "Barbaros Devecioğlu",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-67-7",
+		"bookname" : "Zamanın Ağızları",
+		"Author1" : "Eduardo Galeano",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-58-8",
+		"bookname" : "İstanbul'un Balkonları",
+		"Author1" : "Sheree Barka",
+		"Author2" : "Oya Şengör",
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-57-X",
+		"bookname" : "Balconies of Istanbul",
+		"Author1" : "Sheree Barka",
+		"Author2" : "Oya Şengör",
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-70-7",
+		"bookname" : "Fiyasko",
+		"Author1" : "Coşkun Büktel",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-68-5",
+		"bookname" : "İçimizdeki Yabancı",
+		"Author1" : "Arno Gruen",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-69-3",
+		"bookname" : "Beyond the Orchard",
+		"Author1" : "Azize Ethem",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Trici Venola",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-71-5",
+		"bookname" : "Maria'nın Yıldızları",
+		"Author1" : "Oğuz Dinç",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-73-1",
+		"bookname" : "Kaçak Yolcu",
+		"Author1" : "Jaklin Çelik",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-98-7",
+		"bookname" : "Mehmet'in Kamyonu",
+		"Author1" : "Emre Eröncel",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Sibel Açanal",
+		"Illustrator2" : "Betül Akzambaklar"
+	},
+	{
+		"isbn" : "975-6663-77-4",
+		"bookname" : "Sarı Göl'ün Atları",
+		"Author1" : "Süleyman Sağlam",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-666376-6",
+		"bookname" : "In Quest of a Homeland",
+		"Author1" : "Yousof Mamoor",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-81-2",
+		"bookname" : "Ormanda Tek Basinda",
+		"Author1" : "Gary Paulsen",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-74-X",
+		"bookname" : "Purple Butterflies",
+		"Author1" : "Debra Menase",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Iidih Wanha",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-75-8",
+		"bookname" : "Mor Kelebekler",
+		"Author1" : "Debra Menase",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Iidih Wanha",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-82-0",
+		"bookname" : "Dokuz Öpüşen Balık",
+		"Author1" : "Tarik Sipahi",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Tarik Sipahi",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-83-9",
+		"bookname" : "İslenmiş Aşka Mektuplar",
+		"Author1" : "Ferhat Uludere",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-84-7",
+		"bookname" : "Teker Teker Tekerleme",
+		"Author1" : "Guldehan Neng",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-85-5",
+		"bookname" : "Hazinenin Düşüncesi",
+		"Author1" : "Mehmet Uysal",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-87-1",
+		"bookname" : "Tuhaf Oğlan",
+		"Author1" : "Shyam Selvadurai",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-86-X",
+		"bookname" : "Teker Teker Tekerleme (Ciltli)",
+		"Author1" : "Guldehan Neng",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Betül Akzambaklar",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9944-424-00-5",
+		"bookname" : "Miami Blues",
+		"Author1" : "Charles Willeford",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-88-X",
+		"bookname" : "Eşcinselliğin Sonu",
+		"Author1" : "Bert Archer",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-89-8",
+		"bookname" : "Martılara Simit Atacaktık Hani",
+		"Author1" : null,
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Irmak Aydin",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-99-5",
+		"bookname" : "Latin Amerika'nin Kesik Damarları",
+		"Author1" : "Eduardo Galeano",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-90-1",
+		"bookname" : "Elveda Kızlar Ülkesi",
+		"Author1" : "Yang Erche Namu",
+		"Author2" : "Christine Mathieu",
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-92-8",
+		"bookname" : "Bay Bay Bezim (Ciltli)",
+		"Author1" : "Debra Menase",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Iidih Wanha",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-93-6",
+		"bookname" : "Cadı Kız",
+		"Author1" : "Celia Rees",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-95-2",
+		"bookname" : "Katiliniz Şehirlerde Dolaşıyor",
+		"Author1" : "Halil Turhanli",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-96-0",
+		"bookname" : "Mor Menekşeler",
+		"Author1" : "Duygu  Uzel",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-97-9",
+		"bookname" : "Ben Yabanci Değilim",
+		"Author1" : "Azize Lesley Ethem",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Trici Venola",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "975-6663-94-4",
+		"bookname" : "The Quran: Unchallengeable Miracle",
+		"Author1" : "Caner Taslaman",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9944-424-02-1",
+		"bookname" : "Tussy Marx",
+		"Author1" : null,
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9944-424-01-3",
+		"bookname" : "The Yogurt Man Cometh",
+		"Author1" : "Kevin Revolinski",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9944-424-04-8",
+		"bookname" : "En Yaramaz Kız Yeniden",
+		"Author1" : "Enid Blyton",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9944-424-05-6",
+		"bookname" : "En Yaramaz Kız Temsilci Oluyor",
+		"Author1" : "Enid Blyton",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9944-424-07-2",
+		"bookname" : "1001 Fıçı Bira",
+		"Author1" : "Ferhat Uludere",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9944-424-09-9",
+		"bookname" : "Zeze'nin Kazına Ne Oldu?",
+		"Author1" : "Zarife Öztürk",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Betül Akzambaklar",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9944-424-10-2",
+		"bookname" : "What Happened to Zehra's Goose?",
+		"Author1" : "Zarife Öztürk",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Betül Akzambaklar",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9944-424-06-4",
+		"bookname" : "A Handbook for Living in Turkey",
+		"Author1" : "Pat Yale",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Trici Venola",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9944-424-11-0",
+		"bookname" : "Empatinin Yitimi",
+		"Author1" : "Arno Gruen",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "994-4424-08-9",
+		"bookname" : "Sinan Diaryz",
+		"Author1" : "Ann Pierpont",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9944-424-14-1",
+		"bookname" : "En Yaramaz Kız Karşınızda",
+		"Author1" : "Enid Blyton",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "994-4424-12-9",
+		"bookname" : "Village in the Meadows",
+		"Author1" : "Malcolm Pfunder",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "978-9944-424-",
+		"bookname" : "Havva'nın Yedi Kızı",
+		"Author1" : "Bryan Skyes",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9789944424202",
+		"bookname" : "Life with a View",
+		"Author1" : "Toni Sepeda",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : " 978994442421",
+		"bookname" : "Yalnızlığın Kırmızı İzi",
+		"Author1" : "Oğuz Dinç",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : " 978994442418",
+		"bookname" : "Theope",
+		"Author1" : "Coşkun Büktel",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9789944424172",
+		"bookname" : "Ses Kayıt ve Müzik Teknolojileri",
+		"Author1" : "Ufuk Önen",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Özgen Ünlüsoy",
+		"Illustrator2" : "Ufuk Önen"
+	},
+	{
+		"isbn" : "978-9944-424-15-8",
+		"bookname" : "Bizim Evde Pişenler",
+		"Author1" : "Filiz Zorlu",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : "Gökçe Erenmemişoğlu",
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9789944424257",
+		"bookname" : "En Yaramaz Kız Sır Saklıyor",
+		"Author1" : null,
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "978994442426",
+		"bookname" : "En Yaramaz Kız Arkadaşını Koruyor",
+		"Author1" : "Enid Blyton",
+		"Author2" : "Anne Digby",
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9789944424240",
+		"bookname" : "Istanbul Gathering",
+		"Author1" : "Roddy O'Connor",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9789944424226",
+		"bookname" : "Küçük Araba Jet",
+		"Author1" : "Guldehan Neng",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9789944424271",
+		"bookname" : "İhanete Uğrayan Sevgi Sahte Tanrılar",
+		"Author1" : "Arno Gruen",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9789944424196",
+		"bookname" : "Lacivert Kedi",
+		"Author1" : "Tarik Sipahi",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	},
+	{
+		"isbn" : "9789944424165",
+		"bookname" : "Contemporary Turkish Cooking",
+		"Author1" : "Filiz Zorlu",
+		"Author2" : null,
+		"Author3" : null,
+		"Illustrator1" : null,
+		"Illustrator2" : null
+	}
+]
