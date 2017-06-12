@@ -1,7 +1,7 @@
 (function () {
     var cApp = angular.module('citlembikApp', ['ngSanitize', 'ngRoute', 'ngResource', 'ui.bootstrap', 'citFilters']);
 
-    cApp.run(['$rootScope', '$route', '$location', '$routeParams', '$window', function ($rootScope, $route, $location, $routeParams, $window) {
+    cApp.run(['$rootScope', '$route', '$location', '$routeParams', '$window', function ($rootScope, $route) {
         $rootScope.$on('$routeChangeSuccess', function () {
             $rootScope.$broadcast("titleUpdated", {
                 title: $route.current.title,
@@ -50,7 +50,7 @@
                 });
             }
         }
-    }])
+    }]);
 
     cApp.controller("TopCtrl", ['$scope', '$window', '$location', 'bookFactory', 'BookSet', function ($scope, $window, $location, bookFactory, BookSet) {
         $scope.title = "Çitlembik Main Page";
@@ -59,13 +59,13 @@
         $scope.updateTitleWith = { pageLink: "", isbn: "" };
         $scope.updateTitle = function (pageLink, isbn) {
             $scope.title = "";
-            if ($scope.books.length == 0) {
+            if ($scope.books.length === 0) {
                 $scope.updateTitleWith.pageLink = pageLink;
                 $scope.updateTitleWith.isbn = isbn;
             } else {
                 $scope.book = null;
                 for (var i = 0; i < $scope.books.length; ++i) {
-                    if ($scope.books[i].pageLink == pageLink || $scope.books[i].isbn == isbn) {
+                    if ($scope.books[i].pageLink === pageLink || $scope.books[i].isbn === isbn) {
                         $scope.book = $scope.books[i];
                         BookSet.setBook($scope.book);
                         $scope.title = $scope.books[i].name;
@@ -75,13 +75,13 @@
                     }
                 }
             }
-        }
+        };
 
         $scope.books.$promise.then(function () {
             var hashids = new Hashids("Citlembik salt");
             var base = "/books/";
-            $scope.books.forEach(function (book) {
-                if (book.pageLink != null && book.pageLink != "") {
+            $scope.books.forEach(function (/* BookType */ book) {
+                if (book.pageLink !== null && book.pageLink !== "") {
                     book.link = base.concat(book.pageLink);
                 } else {
                     var isbn = book.isbn;
@@ -90,12 +90,12 @@
                     });
                     book.link = base.concat(hashids.encode(tokens));
                 }
-                if (book.image == "") {
+                if (book.image === "") {
                     book.image = book.isbn + "_kc.jpg";
                 }
             });
 
-            if ($scope.updateTitleWith.isbn != "" || $scope.updateTitleWith.pageLink != "") {
+            if ($scope.updateTitleWith.isbn !== "" || $scope.updateTitleWith.pageLink !== "") {
                 $scope.updateTitle($scope.updateTitleWith.pageLink, $scope.updateTitleWith.isbn);
                 $scope.updateTitleWith.isbn = "";
                 $scope.updateTitleWith.pageLink = "";
@@ -104,7 +104,7 @@
 
         $scope.$on("titleUpdated", function (event, args) {
             var title = "";
-            if (args.title == null) {
+            if (args.title === null) {
                 var pageLink = args.bookId;
                 var isbn = "";
                 var hashids = new Hashids("Citlembik salt");
@@ -140,14 +140,14 @@
         $scope.right = webtext['right'];
     }]);
 
-    cApp.controller('BookDetailCtrl', ['$scope', '$routeParams', 'bookFactory', function ($scope, $routeParams, bookFactory) {
-        $scope.isError = ($scope.book == null);
+    cApp.controller('BookDetailCtrl', ['$scope', '$routeParams', 'bookFactory', function ($scope) {
+        $scope.isError = ($scope.book === null);
         if ($scope.isError) {
             $scope.webtext = webtext['bookMissing'];
         }
 
-        $scope.$on("bookUpdated", function (event, args) {
-            $scope.isError = ($scope.book == null);
+        $scope.$on("bookUpdated", function () {
+            $scope.isError = ($scope.book === null);
             if ($scope.isError) {
                 $scope.webtext = webtext['bookMissing'];
             }
@@ -155,7 +155,7 @@
 
     }]);
 
-    cApp.controller('BooksCtrl', ['$scope', '$http', 'bookFactory', function ($scope, $http, bookFactory) {
+    cApp.controller('BooksCtrl', ['$scope', '$http', 'bookFactory', function ($scope) {
         $scope.remainingBooks = [];
         $scope.filteredBooks = [];
         $scope.featuredBooks = [];
@@ -171,18 +171,18 @@
         $scope.books.$promise.then(function () {
             var removeIndex = [];
             for (var i = 0; i < $scope.books.length; ++i) {
-                var book = $scope.books[i];
+                var /*BookType*/ book = $scope.books[i];
                 if (book.featured) {
                     $scope.featuredBooks.push(i);
                     removeIndex.push(i);
-                    if ($scope.featuredBooks.length == 2) {
+                    if ($scope.featuredBooks.length === 2) {
                         break;
                     }
                 }
             }
             $scope.remainingBooks = $scope.books.slice(0);
-            for (var i = removeIndex.length - 1; i >= 0; --i) {
-                $scope.remainingBooks.splice(removeIndex[i], 1);
+            for (var j = removeIndex.length - 1; j >= 0; --j) {
+                $scope.remainingBooks.splice(removeIndex[j], 1);
             }
 
             $scope.totalItems = $scope.remainingBooks.length;
